@@ -1,0 +1,8 @@
+Algorithm to add two numbers and display the result.
+
+Step-1: Start
+Step-2: Declare 2 variables (number1 and number2)
+Step-3: Get 2 values from input for (number1 and number2)
+Step-4: Store result <-- number1 + number2
+Step-5: Display result in output
+Step-6: Stop
