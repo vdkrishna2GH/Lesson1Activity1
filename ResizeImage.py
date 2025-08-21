@@ -1,6 +1,6 @@
 import cv2 # type: ignore
 
-image =cv2.imread("car1.jpg")  #Load the image
+image = cv2.imread("car1.jpg")  #Load the image
 
 cv2.namedWindow('Loaded Image',cv2.WINDOW_NORMAL) # Create a resizeable window
 cv2.resizeWindow('Loaded Image',800,300)  #Sets the window size in 800 X 300 (width , height)

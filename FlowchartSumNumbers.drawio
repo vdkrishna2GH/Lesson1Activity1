@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram name="Page-1" id="TyLH4K6LtKvY8fbq2pGx">
+    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UyLykESAlZEND_VDCbmb-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="40" width="150" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry x="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-2" value="Declare variables number1 and number2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-3" value="Input number1 and number2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-4" value="Calculate result = number1 + number2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-5" value="Display result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry x="15" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-6" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry x="15" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyLykESAlZEND_VDCbmb-13" source="UyLykESAlZEND_VDCbmb-1" target="UyLykESAlZEND_VDCbmb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="160" as="sourcePoint" />
+            <mxPoint x="71" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69.5" y="260" as="sourcePoint" />
+            <mxPoint x="71" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="370" as="sourcePoint" />
+            <mxPoint x="70" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UyLykESAlZEND_VDCbmb-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyLykESAlZEND_VDCbmb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69.5" y="455" as="sourcePoint" />
+            <mxPoint x="70.5" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70.5" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
